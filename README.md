@@ -3,6 +3,7 @@
 **Descripción general**
 
 Este repositorio contiene un conjunto de pruebas automatizadas desarrolladas con **Cypress** para validar funcionalidades del flujo de compra en el sitio Saucedemo (Carrito, Login, API ML). Las pruebas se organizan bajo el árbol `cypress/e2e` y cubren escenarios de interfaz de usuario y consultas a la API.
+Dentro de la carpeta Doc se encuentra el archivo xlsx que contiene el diseño de casos de prueba de las funcionalidades Login y Agregado de productos al carrito de compras.
 
 ---
 
