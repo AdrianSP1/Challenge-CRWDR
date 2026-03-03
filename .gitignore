@@ -1,5 +1,5 @@
 node_modules
 /screenshots
-/reports
+/report
 *.png
 *.html
