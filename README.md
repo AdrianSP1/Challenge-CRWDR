@@ -37,7 +37,7 @@ cypress.config.js           # Configuración de Cypress
 cypress/
   ├─ e2e/                   # Archivos de pruebas (Carrito.cy.js, Login.cy.js, API)
   ├─ fixtures/              # Datos estáticos para las pruebas
-  ├─ reports/               # Resultados generados (HTML, etc.)
+  ├─ reports/               # Resultados generados (HTML, failure screenshot in report)
   ├─ screenshots/           # Capturas de prueba fallida
   └─ support/               # Comandos personalizados y helpers Y pages
 ``` 
