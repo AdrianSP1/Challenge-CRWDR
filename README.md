@@ -22,7 +22,7 @@ Dentro de la carpeta Doc se encuentra el archivo xlsx que contiene el diseño de
    git clone https://github.com/AdrianSP1/Challenge-CRWDR
    cd chcrw
    ```
-2. Instala las dependencias con npm o yarn:
+2. Instala las dependencias con npm :
    ```bash
    npm install
 
@@ -83,7 +83,7 @@ Se abrirá la ventana de Cypress donde puedes seleccionar tests y navegadores.
 
 - Los informes HTML generados se encuentran en `cypress/reports/html/index.html`.
 - Las capturas de pantalla de fallos se guardan en `cypress/screenshots/`.
-- Usa `npm run clean` si deseas eliminar resultados previos (comando si está definido).
+- Usa `npm run clean` si deseas eliminar resultados previos.
 
 ---
 
