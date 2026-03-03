@@ -20,7 +20,7 @@ Dentro de la carpeta Doc se encuentra el archivo xlsx que contiene el diseño de
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/AdrianSP1/Challenge-CRWDR
-   cd chcrw
+   cd Challenge-CRWDR
    ```
 2. Instala las dependencias con npm :
    ```bash
