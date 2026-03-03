@@ -1,4 +1,10 @@
 {
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open",
+    "test:chrome": "cypress run --browser chrome",
+    "test:edge": "cypress run --browser edge"
+  },
   "devDependencies": {
     "cypress-mochawesome-reporter": "^4.0.2"
   }
